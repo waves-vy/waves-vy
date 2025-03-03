@@ -13,7 +13,7 @@
 <p align="center">Tenho 22 anos. Atualmente estou cursando Engenharia Civil (7º Período) na Anhanguera Imperatriz-MA. Sempre fui apaixonado por tecnologias e pretendo usar ela para aumentar a produtividade e revolucionar alguns processos da engenharia civil, e se possível, outras áreas.
 
 <br>
-<hr>
+#
 
 <p align="center">Linguagens e tecnologias:
 
@@ -33,7 +33,7 @@
 
 </div>
 
-<hr>
+#
 
 <br>
 
