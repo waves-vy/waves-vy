@@ -14,7 +14,7 @@
 
 #
 
-<img align="right" alt="" height="230px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRtaWJqZzNiMm8wd2xycDY4d2kwdmlvdzM4OTY4Z3lraG00djNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+<img align="right" alt="" height="220px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRtaWJqZzNiMm8wd2xycDY4d2kwdmlvdzM4OTY4Z3lraG00djNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 
 
 ### Atualmente estou:
