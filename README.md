@@ -26,14 +26,13 @@
 
 ### Linguagens e tecnologias:
 
-`HTML` `CSS` `JS` `PYTHON` `PHP` `MYSQL` `GIT`
+`HTML` `CSS` `JS` `PYTHON` `MYSQL` `GIT` `NODEJS` `REACT`
 
 #
 <br>
 
 <div align="center">
   
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -42,18 +41,16 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="30" alt="python logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30"/>
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" />  
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30"/>  
+  
 </div>
 
-#### Especialidade:
-
-`FRONT-END` `UI-UX DESIGN`
-
-</div>
 
 #
 
